@@ -1,3 +1,3 @@
-module qraycast
+module nospace
 
-go 1.23.3
+go 1.26.2
